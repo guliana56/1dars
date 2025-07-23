@@ -4,6 +4,7 @@ color: rgb(255, 255, 255);
 border: 15px solid rgb(255, 255, 255);
 border-radius: 30px;
 text-align: center;
+padding: 100px;
 }
 
 p{
@@ -11,7 +12,10 @@ color: rgb(255, 255, 255);
 font-size: 28px;
 }
 
-
+img{
+    margin: auto;
+    display: block;
+}
 body{
 background-color: rgba(94, 20, 129, 0.914);
 }
